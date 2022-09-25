@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+      width:100%;
+      height:100vh;
+      
+}
+ div img{
+       margin-top: 30px;
+       margin-left: 60px;
+ }
+/* navbar */
+.navbar-container{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+}
+  
+.navbar-container div .list{
+                             font-family:'Orbitron';
+                            display: flex;
+                            flex-direction: row;
+                            list-style-type: none;
+            
+            
+                           }
+   .navbar-container div .list :first-child{
+                            text-decoration: underline;
+                            text-underline-offset: 10px;
+                            
+                          
+                           }               
+                            
+ .navbar-container .list-item{
+                        
+                            padding:10px 20px ;
+                             font-weight: bold;
+                             font-size: 25px;
+                        
+                        
+ }
+ .nav-button{
+              padding: 10px 30px ;
+              border-radius: 7px;
+               background-color: #ffffff;
+               position:relative;
+               left:20px;
+               bottom: 20px;
+               
+               
+ }
+ .search-icon{
+          position: relative;
+           right:20px;
+           top:25px;
+           
+ }
+ /* Hero Banner Section*/
+
+
+ 
+ 
+  h1 {
+        
+        font-size: 45px;
+        font-family:'Orbitron';
+
+ }
+ .hero-heading{
+    position: absolute;
+    top:18rem;
+    left:45rem;
+
+  }
+ .hero-description{
+  font-size: 20px;
+  font-weight: 100;
+  margin-top: 20px;
+  line-height: 25px;
+  position: absolute;
+  top:23rem ;
+  left: 46rem;
+  }
+  .button-email {
+    border-radius: 7px;
+    padding: 5px 30px;
+    font-family: 'Orbitron';
+    background-color: #ffffff;
+    margin-left: 100px;
+    margin-top: 30px;
+    position: absolute;
+    top:30rem;
+    left:47rem;
+    
+    }
+    .button-join{
+      border-radius: 7px;
+      padding:5px 5px;
+      background-color: black;
+      color: #ffffff;
+      font-family:'Orbitron';
+      margin-top: 30px;
+      position: absolute;
+      top:30rem;
+      left:65rem;
+      
+    }
+    .contact-heading{
+        font-size: 25px;
+        font-weight: 100;
+        position: absolute;
+        top:41rem;
+        left: 59rem;
+    }
+    .icons{
+        position: absolute;
+        top:42rem;
+        left:48rem;
+    }
+   .hero-container {
+    margin-left: 60px;
+    margin-top: -70px;
+
+    
+   }
+  .square{
+      position: absolute;
+      top:19rem;
+      left: 9rem;
+      z-index: -1;
+      
+      
+  }
+.star{
+    position: absolute;
+    top:10rem;
+    left:73rem;
+}
+.globe{
+    position:relative;
+    left:685px;
+    top:80px;
+    
+}
+.star1{
+    position: absolute;
+    top:39rem;
+    left:40rem;
+}
