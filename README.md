@@ -2,3 +2,7 @@
 
 ## Live Demo:point_down:
 [Live Link](http://project-01-tikp.vercel.app/)
+
+### Technologies used
+![]()
+
