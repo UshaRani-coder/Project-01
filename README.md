@@ -10,5 +10,5 @@
 
 ## About the project
 It is a simple landing page made using html,css,
-Particularly positions in css. 
+particularly positions in css. 
 This is not mobile responsive. 
